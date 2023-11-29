@@ -18,6 +18,24 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 And that's it! It creates a local copy of this repository in your machine.
 
+Or you could start a project from scratch if you prefer...
+
+### 2. Creating a React app
+
+To create an app in React, first you have to access to the directory where you'll be working and type:
+
+```npx create-react-app {app_name}```
+
+Now that you have the whole structure for your new app, access the main folder by typing ```cd {app_name}```, and after this you need to type:
+
+```npm start```
+
+You should see your new app running at your ```localhost:3000```
+
+or ```https://127.0.0.1:3000```
+
+#### Congratulations! You have now created your first project on React :six_pointed_star:
+
 ## Donate
 
 <a href="https://www.paypal.com/paypalme/j2al444">
